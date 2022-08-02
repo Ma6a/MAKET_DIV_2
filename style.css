@@ -1,0 +1,87 @@
+.shapka {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(127, 214, 214);
+
+}
+
+h1 {
+
+    text-align: center;
+    padding-top: 25px;
+    color: blue;
+    font-size: large;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.ball {
+
+    background:
+        url(images/ball.jpg) right/10% repeat-y;
+}
+
+h2 {
+    display: inline-block;
+    padding-left: 220px;
+    padding-top: 30px;
+
+}
+
+span {
+    font-weight: bold;
+}
+
+.list {
+    padding-right: 25px;
+    line-height: 58px;
+    display: block;
+    padding-top: 60px;
+    float: left;
+    background-color: yellow;
+    padding-bottom: 81px;
+}
+
+.ball {
+    background-repeat: repeat-y;
+    background-position: right;
+    height: 100%;
+
+
+}
+
+img {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 140px;
+    float: left;
+    width: 300px;
+    height: 206px;
+}
+
+.text {
+    text-align: center;
+    height: 100%;
+    padding-left: 20px;
+    font-size: xx-large;
+    padding-top: 25px;
+    line-height: 58px;
+}
+.block-1{
+    float:left;
+}
+.block-2{
+    float:right;
+}
+
+
+
+footer {
+    padding: 10px 20px;
+    background-color: rgb(127, 214, 214);
+    color:black;
+    text-align: center;
+    font-size: x-large;
+}
